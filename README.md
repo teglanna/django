@@ -1,14 +1,22 @@
 # Setup project
 
-## 1. Clone repo
+## 1. Fork the project on GitHub
 
-Use [GitHub Desktop](https://desktop.github.com/) to clone the repository.
+![](http://i.imgur.com/DLi2Nmb.png)
 
-## 2. Setup virtualenv
+## 2. Download and set up the GitKraken Git client
+
+Download from [gitkraken.com](https://www.gitkraken.com/)
+
+## 3. Clone your forked repository
+
+Open GitKraken, set up your GitHub login and clone your forked repository.
+
+## 4. Setup virtualenv
 
 `virtualenv venv`
 
-## 3. Activate virtualenv
+## 5. Activate virtualenv
 
 OS X / Linux:
 `. venv/bin/activate`
@@ -18,11 +26,11 @@ Windows:
 
 If success, prompt should start with: `(venv)`
 
-## 4. Install Django and dependencies
+## 6. Install Django and dependencies
 
 `pip install -r requirements/local.txt`
 
-## 5. Run Django
+## 7. Run Django
 
 `cd project`
 
@@ -35,8 +43,4 @@ Windows:
 
 # Practice
 
-## 1. Read through all files in the project and guess what they do
-
-## 2. Change a, b, c written to something else
-
-
+Go to [Issues](https://github.com/Pylvax/django/issues) and do the ones starting with numbers.
