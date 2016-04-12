@@ -2,7 +2,7 @@
 
 ## 1. Fork the project on GitHub
 
-![](http://imgur.com/DLi2Nmb)
+![](http://i.imgur.com/DLi2Nmb.png?1)
 
 ## 2. Download and set up the GitKraken Git client
 
